@@ -32,11 +32,11 @@ Steps to Install & Run the Project
 
 Install Python: Ensure Python is installed on your computer. You can check this by typing python --version in your command prompt.
 
-Save the Code: Copy the source code and save it as a Python file, for example: library_management.py.
+Save the Code: Copy the source code and save it as a Python file, for example: Library_management.py.
 
 Open Terminal: Open your command prompt (cmd) or terminal and navigate to the folder where you saved the file.
 
-Run the Command: Type python library_management.py and hit Enter.
+Run the Command: Type python Library_management.py and hit Enter.
 
 Interact: The menu will appear on the screen, and you can start using the system by entering numbers (1-5).
 <img width="916" height="872" alt="image" src="https://github.com/user-attachments/assets/d1eaf9f5-aa7b-453f-b927-7519f83d72ef" />
