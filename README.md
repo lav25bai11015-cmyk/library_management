@@ -39,6 +39,13 @@ Open Terminal: Open your command prompt (cmd) or terminal and navigate to the fo
 Run the Command: Type python library_management.py and hit Enter.
 
 Interact: The menu will appear on the screen, and you can start using the system by entering numbers (1-5).
+<img width="916" height="872" alt="image" src="https://github.com/user-attachments/assets/d1eaf9f5-aa7b-453f-b927-7519f83d72ef" />
+<img width="868" height="826" alt="image" src="https://github.com/user-attachments/assets/63392897-b0d1-43f9-b318-efee38a94a95" />
+<img width="983" height="797" alt="image" src="https://github.com/user-attachments/assets/fe3ab02c-4040-412b-bcc5-5fb3426ed785" />
+<img width="789" height="883" alt="image" src="https://github.com/user-attachments/assets/c3898356-fef0-4ec0-8097-cbada47c76ae" />
+<img width="775" height="721" alt="image" src="https://github.com/user-attachments/assets/7a8a7119-27a3-4179-99f9-1d3ac0df81e6" />
+
+
 
 Instructions for Testing
 
